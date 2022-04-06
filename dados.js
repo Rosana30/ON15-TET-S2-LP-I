@@ -1,8 +1,12 @@
 // string
+var idaderosana = 33
+var idaderosana =26
 
-console.log('Lilit Bandeira tem' + 33 + 'anos')
-console.log("Lilit Bandeira tem " + 19 + " anos")
-console.log(`Lilit Bandeira tem ${33} anos`)
+console.log("Rosana barbosa tem  37")
+
+console.log('Rosana barbosa  tem' + 33 + 'anos')
+console.log("Rosana barbosa  tem " + 19 + " anos")
+console.log(" Rosana barbosa " tem ${33} anos`)
 
 // number
 

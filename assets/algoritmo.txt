@@ -1,0 +1,4 @@
+"avance " para frente
+"avance" para frente  
+se "destrua o bloco" recolher entulho
+destruir Bloco da arvore material
